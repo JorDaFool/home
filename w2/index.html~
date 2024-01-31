@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Example 1</title>
+  </head>
+  <body>
+    <h1>Home Page!</h1>
+    <h2>Title h2</h2>
+    <h3>Title h3</h3>
+    <p>This is the content of the webpage!</p>
+    <u>Some other text...</u>
+    <br />
+    <a href="./profile.html" target="_blank">Link to your profile</a>
+    <br />
+    <img src="./imgs/ncat.png" width = "200" height = "200" alt="This is the place for NCAT logo" />
+    
+  </body>
+</html>
